@@ -1,6 +1,6 @@
-#Peer teaching
+# Peer teaching
 
-1-Les site statique et dynamique
+## 1-Les site statique et dynamique
 
 Tout d'abord, ma réponse ne correspond pas forcément à une définition "stricte" de la différence.
 C'est plus la manière dont je la vois, même si les principes sont les mêmes.
