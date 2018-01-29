@@ -2,8 +2,7 @@
 
 ## 1-Les site statique et dynamique
 
-Un site statique peut être HTML comme Flash. Ce n'est pas parce que ca bouge que c'est dynamique,
-(du moins pas au sens selon lequel je l'entends).
+Un site statique peut être HTML comme Flash. Ce n'est pas parce que ca bouge que c'est dynamique.
 
 Le site statique est composé d'un contenu défini (texte, son, vidéo, anim flash,...)
 mais non modifiable à moins de plonger dans le code. De même, sur un site statique, chacun a droit au même contenu.
