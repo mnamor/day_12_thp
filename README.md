@@ -1,4 +1,4 @@
-Peer-teaching
+#Peer teaching
 
 1-Les site statique et dynamique
 
@@ -98,7 +98,7 @@ Deux méthodes couramment utilisées pour une requête-réponse entre un client 
     GET - Demande des données d'une ressource spécifiée
     POST - Soumet les données à traiter à une ressource spécifiée
 
-La méthode GET
+*La méthode GET
 
 Notez que la chaîne de requête (paires nom / valeur) est envoyée dans l'URL d'une requête GET:
 /test/demo_form.php?name1=value1&name2=value2
@@ -112,7 +112,7 @@ Quelques autres notes sur les requêtes GET:
     Les requêtes GET ont des restrictions de longueur
     Les requêtes GET ne doivent être utilisées que pour extraire des données
 
-La méthode POST
+*La méthode POST
 
 Notez que la chaîne de requête (paires nom / valeur) est envoyée dans le corps du message HTTP d'une requête POST:
 POST /test/demo_form.php HTTP / 1.1
@@ -174,10 +174,10 @@ désigne les quatre opérations de base pour la persistance des données,en part
 
 _Soit:_
 
-    *create* : créer
-    *read* : lire
-    *update* : mettre à jour
-    *delete* : supprimer
+    create : créer
+    read   : lire
+    update : mettre à jour
+    delete : supprimer
 
 Plus généralement, il désigne les opérations permettant la gestion d'une collection d'éléments.
 
