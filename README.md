@@ -122,13 +122,13 @@ Quelques autres notes sur les requêtes POST:
     Les requêtes POST ne peuvent pas être mises en signet
     Les requêtes POST n'ont aucune restriction sur la longueur des données
 
-## 6 Les concept de migration.
+## 6 Les concepts de migration.
 
 Les migration serve à faire évoluer la base de donné,
 afin que les importes de ficher et les modification du site ou l'application soi plus simple à comprendre,
 pour les différent dévelopeur et de simplifier la mise en ligne.
 
-cet modification  son contenue dans le dossier DB.
+ces modification  son contenue dans le dossier DB.
 
 ## 7 Les relations entre les models des BDD.
 
