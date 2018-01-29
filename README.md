@@ -1,4 +1,4 @@
-# Peer-Teaching
+# Ruby on Rails
 
 ## 1 Les site statique et dynamique
 
