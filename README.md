@@ -1,6 +1,6 @@
-#Peer-teaching
+Peer-teaching
 
-##Les site statique et dynamique
+Les site statique et dynamique
 
 Tout d'abord, ma réponse ne correspond pas forcément à une définition "stricte" de la différence.
 C'est plus la manière dont je la vois, même si les principes sont les mêmes.
@@ -36,28 +36,28 @@ mais il aura quand même besoin de composants statiques. Tu ne sais donc pas fai
 
 Aparament Ruby on Rail (RoR) te permet de fair un site dynamique directement sans passer par la phase statique.
 
-##Le MVC
+Le MVC
 
 Modèle-vue-contrôleur ou MVC est un motif d'architecture logicielle destiné aux interfaces graphiques,
 lancé en 1978 et très populaire pour les applications web.
 Le motif est composé de trois types de modules ayant trois responsabilités différentes :
 les modèles, les vues et les contrôleurs.
 
-    * _Un modèle_ (*Model*) contient les données à afficher.
-    * _Une vue_ (*View*) contient la présentation de l'interface graphique.
-    * _Un contrôleur_ (*Controller*) contient la logique concernant les actions effectuées par l'utilisateur.
+    _Un modèle_ ( *Model* ) contient les données à afficher.
+    _Une vue_ ( *View* ) contient la présentation de l'interface graphique.
+    _Un contrôleur_ ( *Controller* ) contient la logique concernant les actions effectuées par l'utilisateur.
 
 Ce motif est utilisé par de nombreux frameworks pour applications web tels que Ruby on Rails,
 Django, ASP.NET MVC, Spring, Struts, Symfony, Apache Tapestry ou Angular Js.
 
-##Les routes en Ruby On Rails
+Les routes en Ruby On Rails
 
 Les routes permettent d’interpréter les URL et d’orienter vers les bonnes actions des controlleurs.
 La configuration se trouve dans le fichier config/routes.rb .
 
 *lien: tres intéresent:* [Routes](https://www.sois-net.fr/routes-ruby-on-rails/)
 
-##Les Bases de Données
+Les Bases de Données
 
 Une base de données (database en anglais),
 permet de stocker et de retrouver l'intégralité de données brutes ou d'informations en rapport avec un thème ou une activité ;
@@ -78,7 +78,7 @@ des écoles, de l'épidémiologie, de l'administration publique (notamment les s
 Lorsque plusieurs choses appelées bases de données sont constituées sous forme de collection,
 on parle alors d'une banque de données.
 
-##Get/Post
+Get/Post
 
 Les deux méthodes HTTP les plus utilisées sont: GET et POST.
 Qu'est-ce que HTTP?
@@ -126,7 +126,7 @@ nom1 = valeur1 & nom2 = valeur2
     *Les requêtes POST ne peuvent pas être mises en signet
     *Les requêtes POST n'ont aucune restriction sur la longueur des données
 
-##Les concept de migration.
+Les concept de migration.
 
 Les migration serve à faire évoluer la base de donné,
 afin que les importes de ficher et les modification du site ou l'application soi plus simple à comprendre,
@@ -134,13 +134,13 @@ pour les différent dévelopeur et de simplifier la mise en ligne.
 
 cet modification  son contenue dans le dossier DB.
 
-##Les relations entre les models des BDD.
+Les relations entre les models des BDD.
 
 Le modèle relationnel est une manière de modéliser les relations existantes entre plusieurs informations,
 et de les ordonner entre elles. Cette modélisation qui repose sur des principes mathématiques mis en avant par E.F.
 Codd est souvent retranscrite physiquement (« implémentée ») dans une base de données.
 
-###Brève description.
+Brève description.
 
 On appelle « relation » un ensemble d'attributs qui caractérisent une proposition ou une combinaison de propositions comme
 "un employé a un matricule, il a un nom, il a un employeur". Dans cet exemple, les attributs de l'employé sont : son matricule,
@@ -167,12 +167,12 @@ les opérations qui peuvent être effectuées ainsi que les mécanismes pour pr�
 E.F Codd a décrit les principes et la conception de modèle relationnel dans son livre
 « A relational model of data for large shared data banks ».
 
-##Les fonctions du CRUD
+Les fonctions du CRUD
 
 L'acronyme informatique anglais CRUD (pour create, read, update, delete) (parfois appelé SCRUD avec un "S" pour search)
 désigne les quatre opérations de base pour la persistance des données,en particulier le stockage d'informations en base de données.
 
-_Soit :_
+_Soit:_
 
     *create* : créer
     *read* : lire
@@ -210,7 +210,7 @@ Par *exemple*, une application carnet d'adresse dont l'élément le plus simple 
 Si l'une ou l'autre de ces opérations fondamentales manque, le logiciel sera considéré comme incomplet.
  [masquer]
 v · m
-###Bases de données
+Bases de données
 _Principe_ 	
 
     Clé Index ACID CRUD Transaction Partition Optimisation de requête.
