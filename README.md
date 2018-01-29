@@ -2,9 +2,6 @@
 
 ## 1-Les site statique et dynamique
 
-Tout d'abord, ma réponse ne correspond pas forcément à une définition "stricte" de la différence.
-C'est plus la manière dont je la vois, même si les principes sont les mêmes.
-
 Un site statique peut être HTML comme Flash. Ce n'est pas parce que ca bouge que c'est dynamique,
 (du moins pas au sens selon lequel je l'entends).
 
