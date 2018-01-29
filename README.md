@@ -1,4 +1,4 @@
-# Peer teaching
+# Peer-Teaching
 
 ## 1-Les site statique et dynamique
 
@@ -55,7 +55,7 @@ Django, ASP.NET MVC, Spring, Struts, Symfony, Apache Tapestry ou Angular Js.
 Les routes permettent d’interpréter les URL et d’orienter vers les bonnes actions des controlleurs.
 La configuration se trouve dans le fichier config/routes.rb .
 
-*lien: tres intéresent:* [Routes](https://www.sois-net.fr/routes-ruby-on-rails/)
+*lien: très intérèsent:* [Routes](https://www.sois-net.fr/routes-ruby-on-rails/)
 
 ## 4-Les Bases de Données
 
@@ -140,7 +140,7 @@ Le modèle relationnel est une manière de modéliser les relations existantes e
 et de les ordonner entre elles. Cette modélisation qui repose sur des principes mathématiques mis en avant par E.F.
 Codd est souvent retranscrite physiquement (« implémentée ») dans une base de données.
 
-Brève description.
+* Brève description.
 
 On appelle « relation » un ensemble d'attributs qui caractérisent une proposition ou une combinaison de propositions comme
 "un employé a un matricule, il a un nom, il a un employeur". Dans cet exemple, les attributs de l'employé sont : son matricule,
