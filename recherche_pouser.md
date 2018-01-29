@@ -1,4 +1,4 @@
-# Ruby on Rails![alt text][logo]
+# Ruby on Rails  [alt text][logo]
 
 ## 1 Les site statique et dynamique
 
