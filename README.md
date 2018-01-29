@@ -1,6 +1,6 @@
 #Peer-teaching
 
-##Les site statique et dynamique.
+##Les site statique et dynamique
 
 Tout d'abord, ma réponse ne correspond pas forcément à une définition "stricte" de la différence.
 C'est plus la manière dont je la vois, même si les principes sont les mêmes.
@@ -36,7 +36,7 @@ mais il aura quand même besoin de composants statiques. Tu ne sais donc pas fai
 
 Aparament Ruby on Rail (RoR) te permet de fair un site dynamique directement sans passer par la phase statique.
 
-##Le MVC.
+##Le MVC
 
 Modèle-vue-contrôleur ou MVC est un motif d'architecture logicielle destiné aux interfaces graphiques,
 lancé en 1978 et très populaire pour les applications web.
@@ -57,7 +57,7 @@ La configuration se trouve dans le fichier config/routes.rb .
 
 *lien: tres intéresent:* [Routes](https://www.sois-net.fr/routes-ruby-on-rails/)
 
-##Les Bases de Données.
+##Les Bases de Données
 
 Une base de données (database en anglais),
 permet de stocker et de retrouver l'intégralité de données brutes ou d'informations en rapport avec un thème ou une activité ;
@@ -78,7 +78,7 @@ des écoles, de l'épidémiologie, de l'administration publique (notamment les s
 Lorsque plusieurs choses appelées bases de données sont constituées sous forme de collection,
 on parle alors d'une banque de données.
 
-##Get/Post.
+##Get/Post
 
 Les deux méthodes HTTP les plus utilisées sont: GET et POST.
 Qu'est-ce que HTTP?
@@ -98,7 +98,7 @@ Deux méthodes couramment utilisées pour une requête-réponse entre un client 
     _GET_ - Demande des données d'une ressource spécifiée
     _POST_ - Soumet les données à traiter à une ressource spécifiée
 
-###La méthode GET.
+###La méthode GET
 
 Notez que la chaîne de requête (paires nom / valeur) est envoyée dans l'URL d'une requête GET:
 /test/demo_form.php?name1=value1&name2=value2
@@ -184,10 +184,10 @@ Plus généralement, il désigne les opérations permettant la gestion d'une col
 Ce terme est aussi un jeu de mot en anglais sur l'adjectif crude (en français brut ou rudimentaire).
 
 Voir aussi les noms:  
-[REST]  (https://fr.wikipedia.org/wiki/Representational_state_transfer)   
-[RESTful]  (https://fr.wikipedia.org/wiki/Representational_state_transfer)  
-[HATEOAS]  (https://fr.wikipedia.org/wiki/HATEOAS)
-ou  [http://putaindecode.io/fr/articles/api/hateoas/]  (http://putaindecode.io/fr/articles/api/hateoas/)  
+[REST](https://fr.wikipedia.org/wiki/Representational_state_transfer)  
+[RESTful](https://fr.wikipedia.org/wiki/Representational_state_transfer)  
+[HATEOAS](https://fr.wikipedia.org/wiki/HATEOAS)  
+ou [http://putaindecode.io/fr/articles/api/hateoas/](http://putaindecode.io/fr/articles/api/hateoas/)   
 
 Application dans les bases de données
 
