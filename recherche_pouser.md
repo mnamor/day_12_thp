@@ -126,7 +126,7 @@ Quelques autres notes sur les requêtes POST:
 
 Les migration serve à faire évoluer la base de donné,
 afin que les importes de ficher et les modification du site ou l'application soi plus simple à comprendre,
-pour les différent dévelopeur et de simplifier la mise en ligne.
+pour les différents dévelopeurs et de simplifier la mise en ligne.
 
 ces modification  son contenue dans le dossier DB.
 
