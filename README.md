@@ -225,3 +225,5 @@ _Composants_
 _Opérations_
 
     Select Jointure Insert Update (SQL) Delete (SQL) Commit Rollback Merge Curseur.
+    
+ *Ecrit par* ~M-RoM~
