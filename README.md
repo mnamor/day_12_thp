@@ -39,7 +39,7 @@ lancé en 1978 et très populaire pour les applications web.
 Le motif est composé de trois types de modules ayant trois responsabilités différentes :
 les modèles, les vues et les contrôleurs.
 
-    Un modèle (Model) contient les données à afficher.
+    Un modèle (Model) contient les données.
     Une vue (View) contient la présentation de l'interface graphique.
     Un contrôleur (Controller) contient la logique concernant les actions effectuées par l'utilisateur.
 
