@@ -98,7 +98,7 @@ Deux méthodes couramment utilisées pour une requête-réponse entre un client 
     GET - Demande des données d'une ressource spécifiée
     POST - Soumet les données à traiter à une ressource spécifiée
 
-*La méthode GET
+* La méthode GET
 
 Notez que la chaîne de requête (paires nom / valeur) est envoyée dans l'URL d'une requête GET:
 /test/demo_form.php?name1=value1&name2=value2
@@ -112,7 +112,7 @@ Quelques autres notes sur les requêtes GET:
     Les requêtes GET ont des restrictions de longueur
     Les requêtes GET ne doivent être utilisées que pour extraire des données
 
-*La méthode POST
+* La méthode POST
 
 Notez que la chaîne de requête (paires nom / valeur) est envoyée dans le corps du message HTTP d'une requête POST:
 POST /test/demo_form.php HTTP / 1.1
