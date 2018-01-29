@@ -57,7 +57,7 @@ La configuration se trouve dans le fichier config/routes.rb .
 
 Une base de données (database en anglais),
 permet de stocker et de retrouver l'intégralité de données brutes ou d'informations en rapport avec un thème ou une activité ;
-celles-ci peuvent être de natures différentes et plus ou moins reliées entre elles1,2. Dans la très grande majorité des cas,
+celles-ci peuvent être de natures différentes et plus ou moins reliées entre elles. Dans la très grande majorité des cas,
 ces informations sont très structurées, et la base est localisée dans un même lieu et sur un même support.
 Ce dernier est généralement informatisé.
 
@@ -65,7 +65,7 @@ La base de données est au centre des dispositifs informatiques de collecte, mis
 stockage et utilisation d'informations. Le dispositif comporte un système de gestion de base de données (abréviation : SGBD):
 un logiciel moteur qui manipule la base de données et dirige l'accès à son contenu.
 De tels dispositifs — souvent appelés base de données — comportent également des logiciels applicatifs,
-et un ensemble de règles relatives à l'accès et l'utilisation des informations2.
+et un ensemble de règles relatives à l'accès et l'utilisation des informations.
 
 La manipulation de données est une des utilisations les plus courantes des ordinateurs.
 Les bases de données sont par exemple utilisées dans les secteurs de la finance, des assurances,
