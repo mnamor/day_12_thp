@@ -113,19 +113,6 @@ Le modèle relationnel est une manière de modéliser les relations existantes e
 et de les ordonner entre elles. Cette modélisation qui repose sur des principes mathématiques mis en avant par E.F.
 Codd est souvent retranscrite physiquement (« implémentée ») dans une base de données.
 
-* Brève description.
-
-On appelle « relation » un ensemble d'attributs qui caractérisent une proposition ou une combinaison de propositions comme
-"un employé a un matricule, il a un nom, il a un employeur". Dans cet exemple, les attributs de l'employé sont : son matricule,
-son nom et son employeur. Chaque combinaison de propositions ainsi formée est appelée tuple ou collection ordonnée d'objets.
-Par exemple l'ensemble ("1245", "Jean Dupond", "Compagnie des belles lettres") constitue un tuple de relation "employé".
-Les relations sont d'ordinaire représentées sous la forme de tables. Dans l'exemple précédent, la table serait libellée "employé".
-Usuellement, les praticiens accordent la même signification aux concepts de "relation" et de "table". De même,
-ils assimilent d'une part la "ligne dans la table" et le tuple, et d'autre part le "libellé de colonne dans la table" et l'attribut.
-Par définition, chaque tuple d'une relation est unique. Il est identifié par un attribut
-(un identifiant unique appelé "clef primaire") ou une combinaison de plusieurs attributs qui forme la clef.
-L'ordre des tuples n'est pas significatif.
-
 ## 8 Les fonctions du CRUD
 
 L'acronyme informatique anglais CRUD (pour create, read, update, delete) (parfois appelé SCRUD avec un "S" pour search)
