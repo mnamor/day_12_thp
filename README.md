@@ -1,4 +1,4 @@
-# Ruby on Rails
+# Ruby on Rails![alt text][logo]
 
 ## 1 Les site statique et dynamique
 
@@ -144,3 +144,5 @@ Ce terme est aussi un jeu de mot en anglais sur l'adjectif crude (en français b
 
     
 *Ecrit par* ~ M-NaM ~
+
+[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png "Ruby On Rails"
