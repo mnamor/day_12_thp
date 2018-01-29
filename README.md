@@ -143,4 +143,4 @@ Plus généralement, il désigne les opérations permettant la gestion d'une col
 Ce terme est aussi un jeu de mot en anglais sur l'adjectif crude (en français brut ou rudimentaire).
 
     
-*Ecrit par* ~ M-RoM ~
+*Ecrit par* ~ M-NaM ~
