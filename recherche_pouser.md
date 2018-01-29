@@ -1,5 +1,5 @@
-# Ruby on Rails  [alt text][logo]
-
+# Ruby on Rails![alt text][logo] [logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png "Ruby On Rails"
+ 
 ## 1 Les site statique et dynamique
 
 Un site statique peut être HTML comme Flash. Ce n'est pas parce que ca bouge que c'est dynamique.
