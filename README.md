@@ -202,16 +202,15 @@ Utilisation dans les interfaces logicielles
 
 Par *exemple*, une application carnet d'adresse dont l'élément le plus simple est un contact, doit permettre à l'utilisateur de :
 
-    *Créer des contacts*
-    *Lire un contact (liste, zone de recherche…)*
-    *Mettre à jour un contact*
-    *Supprimer un contact*
+    Créer des contacts
+    Lire un contact (liste, zone de recherche…)
+    Mettre à jour un contact
+    Supprimer un contact
 
 Si l'une ou l'autre de ces opérations fondamentales manque, le logiciel sera considéré comme incomplet.
  [masquer]
 v · m
-Bases de données
-_Principe_ 	
+_Bases de données Principe_ 	
 
     Clé Index ACID CRUD Transaction Partition Optimisation de requête.
 
