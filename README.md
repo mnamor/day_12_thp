@@ -65,17 +65,6 @@ on parle alors d'une banque de données.
 ## 5 Get/Post
 
 Les deux méthodes HTTP les plus utilisées sont: GET et POST.
-Qu'est-ce que HTTP?
-
-Le protocole HTTP (*Hypertext Transfer Protocol*) est conçu pour permettre les communications entre les clients et les serveurs.
-
-HTTP fonctionne comme un protocole de requête-réponse entre un client et un serveur.
-
-Un navigateur Web peut être le client et une application sur un ordinateur hébergeant un site Web peut être le serveur.
-
-Exemple: Un client (*navigateur*) soumet une requête HTTP au serveur; alors le serveur renvoie une réponse au client.
-La réponse contient des informations d'état sur la demande et peut également contenir le contenu demandé.
-Deux méthodes de requête HTTP: GET et POST
 
 Deux méthodes couramment utilisées pour une requête-réponse entre un client et un serveur sont: GET et POST.
 
